@@ -13,7 +13,7 @@ Q. What sort of data are the values? (cross all that apply)
 [ ] Discrete
 [ ] Ordinal
 [ ] Nominal
-[ ] Continuous
+[X] Continuous
 [ ] Interval
 [ ] Numerical
 ```
@@ -24,7 +24,7 @@ Q. What sort of data are the values? (cross all that apply)
 Q. If we want to know how many values are in our sample, which aggregation would we use?
 [ ] Maximum
 [ ] Sum
-[ ] Count
+[X] Count
 [ ] Average
 [ ] Minimum
 [ ] Population
@@ -32,7 +32,7 @@ Q. If we want to know how many values are in our sample, which aggregation would
 
 ```
 Q. What is the Distinct count of values in the dataset?
-A. 
+A. 24
 ```
 
 #### Central Tendency
@@ -40,28 +40,28 @@ A.
 
 ```
 Q. What is the count of values in the dataset?
-A. 
+A. 66
 ```
 
 ```
 Q. What is the mean of values in the dataset?
-A. 
+A. 68,60
 
 ```
 
 ```
 Q. What is the mode of values in the dataset?
-A. 
+A. 66
 ```
 
 ```
 Q. What is the median of values in the dataset?
-A. 
+A. 69
 ```
 
 ```
 Q. What is the difference between "Distinct count of values" vs. "count of values"
-A. 
+A. "count of values" count all values marked, "distinct count of values" count all unique values
 ```
 
 
@@ -69,11 +69,11 @@ A.
 
 ```
 Q. What is the standard deviation of values in the dataset?
-A. 
+A. 7,086
 ```
 ```
 Q. What is the variance of the values in the dataset?
-A. 
+A. 50,211
 ```
 
 
@@ -85,19 +85,19 @@ A.
 
 ```
 Q. In a normal distribution, what is the percentage of the data points lying between the mean and one standard deviation above and below the mean?
-A.  
+A.  68%
 ```
 
 ```
 Q. Which quartile in a normal distribution contains the most observations?
-A.
+A. Q1 and Q2
 ```
 
 #### Skewness and kurtosis
 
 ```
 Q. How do you describe a distribution where the mean of values is greater than the median? 
-A. 
+A. right skew
 ```
 
 
